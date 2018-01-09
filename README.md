@@ -2,11 +2,11 @@
 
 Aviso: a simulação pode demorar vários minutos para finalizar.
 
-## Instruções ==
+## Instruções
 
 Comando: `python simular-ibope-eleicao.py`
 
-## Como funciona ==
+## Como funciona
 
 São gerados 200.000.000 de votos (representando a população brasileira) entre diferentes candidatos
 com probabilidade real conhecida.
